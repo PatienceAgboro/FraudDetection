@@ -15,7 +15,7 @@ Step 3: Clone the repository
     mkdir Project
     cd Project
 
-    git clone https://github.com/SilasEmma/FraudProject.git
+    git clone https://github.com/PatienceAgboro/FraudDetection.git
 
 Step 4: Install Python libraries
 
